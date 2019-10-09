@@ -2,13 +2,14 @@
 
 09/12/2019
 Project: "The Rock Event"
-___________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 >> Badass Team <<
 Tomas Stimac: Lead back-end developer
 Michelle Santiago: Lead front end developer
 J-Anne Carlson: Project manager doing full-stack
 Leah Munson: Back end developer
-___________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
+
 Concept: An easy-to-use application to find Rock/Alternative music. We are going to merge multiple API's so all the information will be gathered in a place
 so that music enthusiasts of this genre have a centeralized place for all information about the rock scene in Washington State.
 
@@ -20,7 +21,7 @@ to  return informaton using different api's and return relevant information base
 We will start on making our application mobile ready and branch outwards to web application ready on a desktop / laptop.
 
 Future Deveopment: Expand the locator for google maps to include the west coast and potentially other genres.
-____________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________
 
 >> Work Log <<
 
@@ -107,6 +108,29 @@ __________________________________________________________________
                     Enlarged artist image display
                     Cleaned up hovering text in code
 __________________________________________________________________
+          
+          Team cleaned up code and setup for presentation due tomorrow.
                       
 >> Time Line <<
 9/19/2019: DUE DATE!!!
+
+__________________________________________________________________
+
+>> Unit 8: Project 1 <<
+
+  
+   >Overview
+Welcome to Project 1! This is an important step in your full-stack journey as you will now use your newly acquired skills and knowledge to build web application from scratch. With your team, you will conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. Because you will be working collaboratively, you will learn agile development methodologies and implement feature and bug fixes using the git branch workflow and pull requests.
+
+  >Key Topics
+Server-side APIs
+Git branching workflow
+Agile software development
+
+  >Learning Objectives
+* Speak technically about a feature you implemented in your project
+* Explain and execute git branching workflow in a collaborative project
+* Resolve merge conflicts
+* Explain agile software development
+* Design, build and deploy a client-side web application using GitHub Pages
+* Prepare a professional presentation and repository README for your project
